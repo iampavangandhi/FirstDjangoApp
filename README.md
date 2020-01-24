@@ -18,5 +18,5 @@ python3 manage.py runserver
 ```
 
 ### Commands Gist
-You can find all of the commands from the project here: [Notes](./notes.txt)
+You can find commands from the project here: [Notes](./notes.txt)
 
