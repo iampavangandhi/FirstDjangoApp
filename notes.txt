@@ -39,9 +39,6 @@ python manage.py startapp pages
 
 	sudo pip3 install virtualenv
 
-    	mkdir ~/newproject
-    	cd ~/newproject
-
 	virtualenv newenv
 
 	source newenv/bin/activate
