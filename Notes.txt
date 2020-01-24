@@ -44,5 +44,4 @@ python manage.py startapp pages
 	source newenv/bin/activate
 
 	pip install django
-
 }
